@@ -1,0 +1,1 @@
+print("Hakkōda an IBM company")
